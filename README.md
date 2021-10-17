@@ -1,0 +1,2 @@
+# PhotoAppDiscoveryServer
+Eureka Discovery service
